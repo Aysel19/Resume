@@ -27,7 +27,7 @@ body {
 .left-side { 
     padding: 5px;
     background-color: #FAFCFC; 
- border-right: 1px solid  lightgray;
+ border-right: 1px solid  lightgray; 
 
 }
 .right-side {
